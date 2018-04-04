@@ -1,1 +1,0 @@
-A mostly finished script that dared to ask: How can I send notifications for new problem records to a webhook if I don't have administrative access to ServiceNow?  Mainly an excuse to learn about web scraping with Selenium and Python.
